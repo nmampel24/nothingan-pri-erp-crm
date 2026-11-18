@@ -30,7 +30,24 @@ Java · Spring Boot · Thymeleaf · Maven · base de dades relacional · MongoDB
 - [Memòria del projecte](docs/memoria.pdf)
 - [Diagrama de base de dades](docs/DataBase/)
 
-## ▶️ Com executar-lo
-1. Clona el repo: `git clone https://github.com/nmampel24/nothingan-pri-erp-crm.git`
-2. Copia `application.properties.example` a `application.properties` i omple les teves dades de connexió
-3. Executa: `mvn spring-boot:run`
+## Com executar-lo
+
+### Requisits
+- Java (JDK) i Maven
+- MySQL 8 (BD `projecte1_equip5`)
+- MongoDB (BD `reserves_docs`)
+
+### Passos
+1. Clona el repositori i entra a la carpeta del projecte:
+   ```bash
+   git clone https://github.com/nmampel24/nothingan-pri-erp-crm.git
+   cd nothingan-pri-erp-crm/code
+   ```
+2. Copia `src/main/resources/application.properties.example` a `src/main/resources/application.properties` i omple les teves dades de connexió (usuari i contrasenya de MySQL, i URI de MongoDB).
+3. Arrenca MySQL i MongoDB. Si vols partir d'una BD buida, l'aplicació crea les taules i carrega dades de prova en arrencar.
+4. Executa:
+   ```bash
+   mvn spring-boot:run
+   ```
+
+Les dades de prova es carreguen automàticament. Els usuaris de prova (agents i clients) tenen la contrasenya `Prova1234`.
