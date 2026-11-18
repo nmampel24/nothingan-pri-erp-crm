@@ -28,7 +28,7 @@ Java · Spring Boot · Thymeleaf · Maven · base de dades relacional · MongoDB
 
 ## 📄 Documentació
 - [Memòria del projecte](docs/memoria.pdf)
-- [Diagrama de base de dades](docs/diagrama-bd.png)
+- [Diagrama de base de dades](docs/DataBase/)
 
 ## ▶️ Com executar-lo
 1. Clona el repo: `git clone https://github.com/nmampel24/nothingan-pri-erp-crm.git`
