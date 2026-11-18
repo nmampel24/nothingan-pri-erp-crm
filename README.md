@@ -28,7 +28,6 @@ Java · Spring Boot · Thymeleaf · Maven · base de dades relacional · MongoDB
 
 ## 📄 Documentació
 - [Memòria del projecte](docs/memoria.pdf)
-- [Prototip visual](docs/prototip.pdf)
 - [Diagrama de base de dades](docs/diagrama-bd.png)
 
 ## ▶️ Com executar-lo
