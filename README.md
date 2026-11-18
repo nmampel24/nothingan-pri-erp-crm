@@ -30,8 +30,6 @@ Java · Spring Boot · Thymeleaf · Maven · base de dades relacional · MongoDB
 - [Prototip visual](docs/prototip.pdf)
 - [Diagrama de base de dades](docs/diagrama-bd.png)
 
-## 🔗 Codi font
-[Repositori GitLab](https://gitlab.com/dam2/projecte1_equip5)
 ## ▶️ Com executar-lo
 1. Clona el repo: `git clone https://github.com/nmampel24/nothingan-pri-erp-crm.git`
 2. Copia `application.properties.example` a `application.properties` i omple les teves dades de connexió
