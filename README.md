@@ -1,5 +1,5 @@
 # Nothingan Pri – ERP/CRM per a lloguer de vehicles
-![Portada del projecte Nothingan Pri](portada.png)
+![Portada del projecte Nothingan Pri](docs/portada.png)
 
 Producte mínim viable (MVP) d'una aplicació web d'ERP i CRM per a **Nothingan Pri S.A.**, empresa familiar de lloguer de vehicles a Terrassa. L'aplicació cobreix tot el procés de negoci: des de l'alta del client fins al retorn del vehicle i el càlcul de la fiança.
 
